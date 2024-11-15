@@ -10,14 +10,16 @@
 ### 🖥️ Upstage AI Lab 5기
 #### Period
 - 2024.09.23 ~ 2025.04.25
-  
-#### Upcoming
+
+#### Done
 - **[FastCampus]** Python
 - **[FastCampus]** Statistics
 - **[FastCampus]** Computer Science
 - **[FastCampus]** Git
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+  
+#### Upcoming
 - **[FastCampus]** MLOps
 - **[FastCampus]** MLOps Project
 - **[Upstage]** Deep Learning
