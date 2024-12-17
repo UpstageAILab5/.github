@@ -18,12 +18,12 @@
 - **[FastCampus]** Git
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
-  
-#### Upcoming
 - **[FastCampus]** MLOps
 - **[FastCampus]** MLOps Project
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
+  
+#### Upcoming
 - **[Upstage]** Computer Vision Basic/Advanced
 - **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Computer Vision Generation
