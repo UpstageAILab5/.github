@@ -22,8 +22,6 @@
 - **[FastCampus]** MLOps Project
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
-  
-#### Upcoming
 - **[Upstage]** Computer Vision Basic/Advanced
 - **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Computer Vision Generation
@@ -32,6 +30,8 @@
 - **[Upstage]** Natural Language Processing LM TO LLM
 - **[FastCampus]** Lang Chain Project
 - **[Upstage]** AI Advanced : Data Centric AI
+  
+#### Upcoming
 - **[Upstage]** Information Retrieval Competition
 - **[Upstage]** OCR Detector Competition
 - **[Upstage]** Recommender System Competition
